@@ -18,5 +18,6 @@
 - Data Preprocessing
 - Model Evaluation
 
-## Connect With Me
+### 🔗 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/karthik-chinthakindi-aa93a7287/
 - GitHub: https://github.com/Karthikch05-dev
