@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi 👋, I'm Karthik
 
-<!--
-**Karthikch05-dev/Karthikch05-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech AIML Student (JNTUH)  
+📍 Hyderabad, India  
 
-Here are some ideas to get you started:
+## About Me
+- Learning Machine Learning & Python
+- Interested in AI, Data Science, and Real-World Projects
+- Looking for internships and hands-on experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- Basics of Machine Learning
+- NumPy, Pandas (learning)
+
+## Currently Learning
+- Supervised & Unsupervised Learning
+- Data Preprocessing
+- Model Evaluation
+
+## Connect With Me
+- GitHub: https://github.com/Karthikch05-dev
