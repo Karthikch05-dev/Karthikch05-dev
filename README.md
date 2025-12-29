@@ -34,7 +34,8 @@
 ---
 ## 📂 Projects
 - 🌐 **Portfolio Website**  
-  🔗 Live: https://your-portfolio.vercel.app  
+  🔗 Live: https://karthik-portfolio.vercel.app
+)
 
 - ✅ **TaskMaster – Student Productivity App**  
   🔗 Live: https://taskmaster-productivity-app.vercel.app  
