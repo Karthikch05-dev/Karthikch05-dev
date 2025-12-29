@@ -32,10 +32,15 @@
 - Problem Solving
 
 ---
-
 ## 📂 Projects
-- 🌐 **Portfolio Website** *(in progress)*  
-- 📊 **Student Performance Prediction (ML Project)**  
+- 🌐 **Portfolio Website**  
+  🔗 Live: https://your-portfolio.vercel.app  
+
+- ✅ **TaskMaster – Student Productivity App**  
+  🔗 Live: https://taskmaster-productivity-app.vercel.app  
+
+- 📊 **Student Performance Prediction (ML)**
+
 
 ---
 
