@@ -34,8 +34,7 @@
 ---
 ## 📂 Projects
 - 🌐 **Portfolio Website**  
-  🔗 Live: https://portfolio-qj8ukykr-karthik-chinthakindis-projects.vercel.app
-)
+  🔗 Live:portfolio-vg5y-git-main-karthik-chinthakindis-projects.vercel.app
 
 - ✅ **TaskMaster – Student Productivity App**  
   🔗 Live: https://taskmaster-productivity-app.vercel.app  
