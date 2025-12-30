@@ -32,13 +32,17 @@
 - Problem Solving
 
 ---
-## 📂 Projects
-- 🌐 **Portfolio Website**  
-  🔗 Live: https://portfolio-vg5y.vercel.app/
-- ✅ **TaskMaster – Student Productivity App**  
-  🔗 Live: https://taskmaster-productivity-app.vercel.app  
+## 🌐 Portfolio
+🔗  https://portfolio-vg5y.vercel.app/
+## 💻 Tech Stack
+HTML | CSS | JavaScript  
+Python | C | Java  
+Git & GitHub | Vercel
 
-- 📊 **Student Performance Prediction (ML)**
+## 🚀 Projects
+- TaskMaster – Productivity Web App
+- Student Performance Prediction (ML)
+- Personal Portfolio Website
 
 
 ---
