@@ -43,6 +43,7 @@ Git & GitHub | Vercel
 - TaskMaster – Productivity Web App
 - Student Performance Prediction (ML)
 - Personal Portfolio Website
+- StudyCraft AI
 
 
 ---
