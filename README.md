@@ -1,3 +1,7 @@
+<div align=center>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"></div>
+
+
 # Hi 👋 I'm Karthik
 
 🎓 B.Tech AIML Undergraduate  
