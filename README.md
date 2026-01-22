@@ -47,7 +47,7 @@ Git & GitHub | Vercel
 - TaskMaster – Productivity Web App: https://taskmaster-productivity-app-66qh.vercel.app/
 - Student Performance Prediction (ML)
 - Personal Portfolio Website
-- StudyCraft AI: studycraft-ai-wheat.vercel.app
+- StudyCraft AI: https://studycraft-ai-wheat.vercel.app/
 
 
 ---
