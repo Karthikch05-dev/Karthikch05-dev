@@ -44,10 +44,10 @@ Python | C | Java
 Git & GitHub | Vercel
 
 ## 🚀 Projects
-- TaskMaster – Productivity Web App
+- TaskMaster – Productivity Web App: https://taskmaster-productivity-app-66qh.vercel.app/
 - Student Performance Prediction (ML)
 - Personal Portfolio Website
-- StudyCraft AI
+- StudyCraft AI: studycraft-ai-wheat.vercel.app
 
 
 ---
